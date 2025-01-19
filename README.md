@@ -9,10 +9,10 @@
 
 
 ### Goals  
-- 💪 App Development and AI/ML  
+- 📱 App Development and AI/ML  
   
 
-- ✍️ I want to create an app that has my own AI model.  
+- 💻 I want to create an app that has my own AI model.  
   
 
 <br/>  
