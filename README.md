@@ -1,93 +1,40 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+Hey there, I'm Manmit Samal! 🚀
+===============================
 
-### <div align="center">Hello fellow programmers, I'm Manmit Samal.</div>  
-  
+Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **tech enthusiast** who's all about building cool stuff and solving real-world problems. From crafting apps to diving into AI/ML, I'm on a mission to turn ideas into reality! 😎
 
+🔍 About Me
+-----------
 
+-   💻 **Aspiring App Developer & AI/ML Enthusiast**
+-   🌍 Based in India
+-   🎯 Current Goals: Building an app powered by my own AI model
+-   ⚡ Fun fact: I can write code to solve problems, but choosing between chai and coffee still stumps me!
 
-### Goals  
-- 📱 App Development and AI/ML  
-  
+🛠️ My Tech Stack
+-----------------
 
-- 💻 I want to create an app that has my own AI model.  
-  
+| Acquired Skills | Aspiring Skills |
+| --- | --- |
+| ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat) |
+| ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-F28C38?logo=tensorflow&logoColor=white&style=flat) |
+| ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) |
+| ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) |
+| ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat) |  |
+| ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) |  |
 
-<br/>  
+📊 GitHub Stats
+---------------
 
+![Manmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmit-s&show_icons=true&theme=radical)\
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manmit-s&layout=compact&theme=radical)
 
-## Skill Set  
-<table><tr><td valign="top" width="33%">
+📫 Let's Connect!
+-----------------
 
+-   💼 [LinkedIn](https://www.linkedin.com/in/manmit-samal)
+-   📸 [Instagram](https://www.instagram.com/_manmit_s_/)
 
-
-### Acquired Skills  
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Aspiring Skills  
-<div align="center">  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/manmit-s" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manmit-samal-4b669132a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFMJyooBVwvQkujy8JkeVogAhjS4TctB4Y4&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BRdi6ZH8cRjeKTS7qcL9aUg%3D%3D" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=manmit-s&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
-<br/>  
-
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=manmit-s&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+> "Code is my canvas, and I'm painting the future one line at a time."\
+> Let's build something epic together! 🚀
