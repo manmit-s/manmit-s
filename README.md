@@ -33,8 +33,8 @@ Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **te
 📫 Let's Connect!
 -----------------
 
--   💼 [LinkedIn](https://in.linkedin.com/in/manmit-samal-4b669132a)
--   📸 [Instagram](https://www.instagram.com/_manmit_s_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://in.linkedin.com/in/manmit-samal-4b669132a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/_manmit_s_/)
 
 > "Code is my canvas, and I'm painting the future one line at a time."\
 > Let's build something epic together! 🚀
