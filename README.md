@@ -4,7 +4,7 @@ Hey there, I'm Manmit Samal! 🚀
 Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **tech enthusiast** who's all about building cool stuff and solving real-world problems. From crafting apps to diving into AI/ML, I'm on a mission to turn ideas into reality! 😎
 
 🔍 About Me
------------
+------------
 
 -   💻 **Aspiring App Developer & AI/ML Enthusiast**
 -   🌍 Based in India
