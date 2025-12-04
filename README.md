@@ -27,8 +27,8 @@ Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **te
 📊 GitHub Stats
 ---------------
 
-![Manmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmit-s&show_icons=true&theme=radical)\
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manmit-s&layout=compact&theme=radical)
+[![Manmit-s's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmit-s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manmit-s&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 Let's Connect!
 -----------------
