@@ -24,12 +24,13 @@ Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **te
 | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat) |  |
 | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) |  |
 
+`
 📊 GitHub Stats
 ---------------
 
 [![Manmit-s's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmit-s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manmit-s&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manmit-s&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+`
 📫 Let's Connect!
 -----------------
 
