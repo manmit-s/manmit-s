@@ -8,7 +8,7 @@ Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **te
 
 -   💻 **Aspiring App Developer & AI/ML Enthusiast**
 -   🌍 Based in India
--   🎯 Current Goals: Building an app powered by my own AI model
+-   🎯 Current Goals: Building an app powered by my own fine-tuned AI model
 -   ⚡ Fun fact: I can write code to solve problems, but choosing between chai and coffee still stumps me!
 
 🛠️ My Tech Stack
