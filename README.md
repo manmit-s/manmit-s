@@ -96,9 +96,24 @@ Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **te
 
 📊 GitHub Stats
 ---------------
+<p align="left">
+  <a href="https://github.com/manmit-s">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manmit-s&theme=tokyo-night&area=true&hide_border=true" width="90%" alt="manmit-s's activity graph" />
+  </a>
+</p>
 
-[![Manmit-s's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manmit-s&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manmit-s&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="left">
+  <a href="https://github.com/manmit-s">
+    <img src="https://github-readme-stats.vercel.app/api?username=manmit-s&show_icons=true&theme=tokyonight" height="180em" alt="manmit-s's GitHub Stats" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/manmit-s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmit-s&layout=compact&theme=tokyonight" height="180em" alt="Top Languages" />
+  </a>
+</p>
+
 
 📫 Let's Connect!
 -----------------
