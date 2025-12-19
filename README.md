@@ -11,18 +11,87 @@ Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **te
 -   🎯 Current Goals: Building an app powered by my own fine-tuned AI model
 -   ⚡ Fun fact: I can write code to solve problems, but choosing between chai and coffee still stumps me!
 
-🛠️ My Tech Stack
------------------
+## 🛠️ Technologies I work with
 
-| Acquired Skills | Aspiring Skills |
-| --- | --- |
-| ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat) |
-| ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-F28C38?logo=tensorflow&logoColor=white&style=flat) |
-| ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) |
-| ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) |
-| ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat) |  |
-| ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) |  |
+### 💻 Languages
+<div align="left">
+  <table>
+    <tr>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
+        <br>C
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
+        <br>C++
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+        <br>Python
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="Dart" />
+        <br>Dart
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📚 Frameworks & Libraries
+<div align="left">
+  <table>
+    <tr>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
+        <br>Flutter
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn" />
+        <br>Scikit-learn
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" />
+        <br>Supabase
+      </td>
+    </tr>
+  </table>
+</div>
+
+### ⚙️ IDEs & Tools
+<div align="left">
+  <table>
+    <tr>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=rocket" width="40" height="40" alt="Antigravity IDE" />
+        <br>Antigravity IDE
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion" />
+        <br>Notion
+      </td>
+      <td align="left" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+        <br>Figma
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 📊 GitHub Stats
