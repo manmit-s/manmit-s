@@ -14,84 +14,19 @@ Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **te
 ## 🛠️ Technologies I work with
 
 ### 💻 Languages
-<div align="left">
-  <table>
-    <tr>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
-        <br>C
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
-        <br>C++
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
-        <br>Python
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="Dart" />
-        <br>Dart
-      </td>
-    </tr>
-  </table>
-</div>
+| <img src="https://skillicons.dev/icons?i=c" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=py" width="40"/> | <img src="https://skillicons.dev/icons?i=dart" width="40"/> |
+|:--:|:--:|:--:|:--:|
+| C | C++ | Python | Dart |
 
 ### 📚 Frameworks & Libraries
-<div align="left">
-  <table>
-    <tr>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
-        <br>Flutter
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn" />
-        <br>Scikit-learn
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" />
-        <br>Supabase
-      </td>
-    </tr>
-  </table>
-</div>
+| <img src="https://skillicons.dev/icons?i=flutter" width="40"/> | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> | <img src="https://skillicons.dev/icons?i=sklearn" width="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> | <img src="https://skillicons.dev/icons?i=supabase" width="40"/> |
+|:--:|:--:|:--:|:--:|:--:|
+| Flutter | TensorFlow | Scikit-learn | MongoDB | Supabase |
 
 ### ⚙️ IDEs & Tools
-<div align="left">
-  <table>
-    <tr>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-        <br>VS Code
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=rocket" width="40" height="40" alt="Antigravity IDE" />
-        <br>Antigravity IDE
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion" />
-        <br>Notion
-      </td>
-      <td align="left" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-        <br>Figma
-      </td>
-    </tr>
-  </table>
-</div>
+| <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="https://skillicons.dev/icons?i=rocket" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> | <img src="https://skillicons.dev/icons?i=notion" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
+|:--:|:--:|:--:|:--:|:--:|
+| VS Code | Antigravity IDE | Docker | Notion | Figma |
 
 
 📊 GitHub Stats
