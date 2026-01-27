@@ -1,2 +1,4 @@
-# Directory to ignore testing files
-*test*
+# Ignore test directory
+test/
+
+# Ensure assets and other directories are tracked (tracked by default if not matched above)
