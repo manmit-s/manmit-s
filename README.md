@@ -24,7 +24,7 @@ Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **te
 | Flutter | TensorFlow | Scikit-learn | MongoDB | Supabase |
 
 ### ⚙️ IDEs & Tools
-| <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="../assets/readme_related/antigravity_logo.png" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> | <img src="https://skillicons.dev/icons?i=notion" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="assets/readme_related/antigravity_logo.png" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> | <img src="https://skillicons.dev/icons?i=notion" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
 |:--:|:--:|:--:|:--:|:--:|
 | VS Code | Antigravity | Docker | Notion | Figma |
 
