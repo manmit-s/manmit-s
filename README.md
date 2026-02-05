@@ -24,7 +24,7 @@ Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **te
 | Flutter | TensorFlow | Scikit-learn | MongoDB | Supabase |
 
 ### ⚙️ IDEs & Tools
-| <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="assets/readme_related/antigravity_logo.png" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> | <img src="https://skillicons.dev/icons?i=notion" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="assets/readme_related/antigravity_logo.png" width="40" style="border-radius: 10px;"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> | <img src="https://skillicons.dev/icons?i=notion" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
 |:--:|:--:|:--:|:--:|:--:|
 | VS Code | Antigravity | Docker | Notion | Figma |
 
@@ -33,22 +33,30 @@ Welcome to my GitHub corner! I'm a passionate **coder**, **innovator**, and **te
 ---------------
 <p align="left">
   <a href="https://github.com/manmit-s">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manmit-s&theme=tokyo-night&area=true&hide_border=true" width="90%" alt="manmit-s's activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manmit-s&theme=iceberg&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&border_color=ffffff&radius=16" width="90%" alt="manmit-s's activity graph" />
   </a>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/manmit-s">
     <img src="https://github-readme-stats.vercel.app/api?username=manmit-s&show_icons=true&theme=tokyonight" height="180em" alt="manmit-s's GitHub Stats" />
   </a>
-</p>
-
+</p> -->
 <p align="left">
   <a href="https://github.com/manmit-s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmit-s&layout=compact&theme=tokyonight" height="180em" alt="Top Languages" />
+    <img src="https://gh-readme-profile.vercel.app/api?username=manmit-s&theme=iceberg&hide_border=false&bg_color=000000&fg_color=ffffff&stroke_color=ffffff&icon_color=ffffff&title_color=ffffff&border_width=1&border_color=ffffff&border_radius=25&revert=true&photo_quality=100" alt="GitHub Profile" />
   </a>
 </p>
 
+<!-- <p align="left">
+  <a href="https://github.com/manmit-s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmit-s&layout=compact&theme=tokyonight" height="180em" alt="Top Languages" />
+  </a>
+</p> -->
+  <a href="https://github.com/manmit-s">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manmit-s&theme=iceberg&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border_radius=25" height="180em" alt="manmit-s's GitHub Streak" />
+  </a>
+</p>
 
 📫 Let's Connect!
 -----------------
